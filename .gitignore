@@ -1,0 +1,7 @@
+# Test dependencies fetched during CI / local runs
+.tests/
+/deps/
+
+# Editor / OS noise
+*.swp
+.DS_Store

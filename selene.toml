@@ -1,0 +1,2 @@
+std = "vim"
+exclude = [".tests/**/*.lua", "deps/**/*.lua"]
