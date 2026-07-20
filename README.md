@@ -24,7 +24,7 @@ end
 
 ## Requirements
 
-- Neovim >= 0.9
+- Neovim >= 0.8
 - A working clipboard provider (see `:help clipboard`) for the default `+` register.
 
 ## Installation
